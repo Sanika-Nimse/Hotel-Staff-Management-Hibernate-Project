@@ -28,7 +28,7 @@ This project implements a basic Hotel Staff Management System using Hibernate fo
 1.  **Clone the Repository:**
 
     ```bash
-    git clone []
+    git clone [https://github.com/Sanika-Nimse/Hotel-Staff-Management-Hibernate-Project.git]
     cd hotel-staff-management
     ```
 
